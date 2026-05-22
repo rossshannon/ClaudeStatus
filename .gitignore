@@ -1,0 +1,9 @@
+.build/
+build/
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+.DS_Store
+docs/sessions/
+tmp/*
+!tmp/.gitkeep
