@@ -4,6 +4,10 @@ A tiny macOS menubar app that watches the Claude status page and colours its pix
 
 ## Behaviour
 
+<p><img src="images/status-ok.png" alt="ClaudeStatus OK" width="180"></p>
+<p><img src="images/status-degraded.png" alt="ClaudeStatus degraded" width="180"></p>
+<p><img src="images/status-down.png" alt="ClaudeStatus down" width="180"></p>
+
 - Polls `https://status.claude.ai/api/v2/summary.json` once per minute.
 - Shows a monochrome template icon when Claude is operational.
 - Shows a yellow icon when the service is degraded, under maintenance, or unreachable.
