@@ -1,3 +1,5 @@
+<p><img src="images/menubar-preview.png" alt="ClaudeStatus menubar preview" width="478"></p>
+
 # ClaudeStatus
 
 A tiny macOS menubar app that watches the Claude status page and colours its pixel Claude Code-style icon by severity.
